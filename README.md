@@ -1,18 +1,26 @@
-# Welcome to your [FASTN site](https://fastn.io/)
+# Open Sans: fastn Font Typography Package
 
-FASTN opensans-typography Template Repo
+This repository contains a [fastn font typography package](https://fpm.dev/featured/fonts/) containing [Google Font: 
+Open Sans](https://fonts.google.com/specimen/Open+Sans/about).
 
-## 🧞 Commands
+Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type
+Director of Ascender Corp. This version contains the complete 897 character
+set, which includes the standard ISO Latin 1, Latin CE, Greek and Cyrillic
+character sets. Open Sans was designed with an upright stress, open forms and a
+neutral, yet friendly appearance. It was optimized for print, web, and mobile
+interfaces, and has excellent legibility characteristics in its letterforms.
+Designers: Eduardo Tunni, Principal design
 
-All commands are run from the root of the project, from a terminal:
+## How To Use This Font Typography In Your fastn Package:
 
-| Command                | Action                                             |
-| :--------------------- | :------------------------------------------------- |
-| `fastn build`            | FASTN builder installs all `FASTN` dependencies        |
-| `fastn serve`            | Starts local dev server at available port`localhost:8000`          |
-
-
+[Read the docs and demo](https://fastn-community.github.io/opensans-typography/).
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://fastn.io/) or jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+Feel free to check [our documentation](https://fastn.com) or jump into our [FifthTry Discord 
+server](https://discord.gg/bucrdvptYd).
+
+## License
+
+Since Open Sans Font is under [Open Font Licence](https://fonts.google.com/specimen/Open+Sans/about), this fastn wrapper is also
+under [Open Font License](LICENSE).
