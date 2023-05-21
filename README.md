@@ -1,6 +1,6 @@
 # Open Sans: fastn Font Typography Package
 
-This repository contains a [fastn font typography package](https://fpm.dev/featured/fonts/) containing [Google Font: 
+This repository contains a [fastn font typography package](https://fastn.com/featured/fonts-typography/) containing [Google Font: 
 Open Sans](https://fonts.google.com/specimen/Open+Sans/about).
 
 Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type
@@ -13,7 +13,9 @@ Designers: Eduardo Tunni, Principal design
 
 ## How To Use This Font Typography In Your fastn Package:
 
-[Read the docs and demo](https://fastn-community.github.io/opensans-typography/).
+[Read the docs and demo](https://fastn-community.github.io/opensans-font/).
+
+Also, check [Opensans-font-typography](https://fastn-community.github.io/opensans-typography/)
 
 ## 👀 Want to learn more?
 
